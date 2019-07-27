@@ -1,0 +1,14 @@
+public class myclass4 {
+	static void mymethod() {
+		System.out.println("hello world");
+	}
+
+	public static void main(String[] args) {
+		mymethod();
+		mymethod();
+		mymethod();
+		
+		
+		}
+
+}
